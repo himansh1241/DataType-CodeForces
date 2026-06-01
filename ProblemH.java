@@ -10,7 +10,7 @@ public class ProblemH {
     
         System.out.println("floor " + a + " / " + b + " = " + (long)Math.floor(result));
         System.out.println("ceil " + a + " / " + b + " = " + (long)Math.ceil(result));
-        System.out.println("floor " + a + " / " + b + " = " + Math.round(result));
+        System.out.println("round " + a + " / " + b + " = " + Math.round(result));
 
         hr.close();
     }
