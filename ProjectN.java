@@ -10,5 +10,7 @@ public class ProjectN {
         } else {
             System.out.println(Character.toLowerCase(ch));
         }
+
+        hr.close();
     }
 }

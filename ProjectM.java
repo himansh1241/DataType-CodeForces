@@ -18,5 +18,7 @@ public class ProjectM {
                 System.out.println("IS SMALL");
             }
         }
+
+        hr.close();
     }
 }
